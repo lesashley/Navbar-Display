@@ -1,0 +1,25 @@
+body{
+  font-family: 'Kurale', serif;
+}
+ul{
+  background-color: black;
+}
+
+li{
+  display: inline-block;
+  padding: 20px;
+  list-style: none;
+}
+
+a{
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 10px;
+}
+a:hover{
+  color: green;
+}
+span{
+  color: rgb(89, 244, 254);
+  margin: 0 100px;
+}
